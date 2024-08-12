@@ -1,3 +1,3 @@
 # AutoBuildTest
 
-test 2
+See how auto build works.
